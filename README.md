@@ -26,7 +26,7 @@ small Houses: Tailored to individual appliances, occupancy, and daily routines.
 
 Large Buildings: Integrates with Building Management Systems (BMS) to coordinate across multiple zones and users.
 
-ther is a need of connected equipment or people can plan the equipment themselves.
+there is a need of connected equipment or people can plan the equipment themselves.
 
 AI Techniques Used
 -Machine Learning for consumption prediction and pattern recognition.
@@ -64,8 +64,4 @@ this is a very large project which needs a lot of human resources with specific 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+
