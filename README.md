@@ -13,10 +13,10 @@ Which problems does your idea solve? How common or frequent is this problem? Wha
 
 Develop an AI-based system that predicts and adjusts electricity consumption patterns.
 
--Minimize reinjection of surplus solar energy into the grid.
--Prevent voltage variability and grid instability.
--avoid partial or full disconnection from the grid during peak solar production or blackouts.
--Adapt dynamically to building occupancy, electrical equipment usage, and weather conditions/forecasts.
+-Minimize reinjection of surplus solar energy into the grid
+-Prevent voltage variability and grid instability
+-avoid partial or full disconnection from the grid during peak solar production or blackouts
+-Adapt dynamically to building occupancy, electrical equipment usage, and weather conditions/forecasts
 -avoid the use of large storage batteries
 
 This should also avoid oversizing of the grid, and promote sparing of materials
@@ -29,32 +29,32 @@ Large Buildings: Integrates with Building Management Systems (BMS) to coordinate
 there is a need of connected equipment or people can plan the equipment themselves.
 
 AI Techniques Used
--Machine Learning for consumption prediction and pattern recognition.
--Reinforcement Learning to optimize real-time energy distribution.
--Forecasting Models using weather data to anticipate solar production.
--Sensor Integration to monitor occupancy and device usage.
+-Machine Learning for consumption prediction and pattern recognition
+-Reinforcement Learning to optimize real-time energy distribution
+-Forecasting Models using weather data to anticipate solar production
+-Sensor Integration to monitor occupancy and device usage
 
 
 ## Data sources and AI methods
 
 data from the building (sensors), form the solar panels, from the weather forecasts and from some sensors in the same area (e.g.to anticipate coming clouds)
 
--Data Collection: Sensors track energy usage, solar production, weather, and occupancy.
--Prediction Engine: AI forecasts solar output and electricity demand.
--Optimization Algorithm: Determines the best time to run appliances, charge batteries, or store energy.
--Control System: Automatically adjusts device operation and battery storage to match solar availability.
+-Data Collection: Sensors track energy usage, solar production, weather, and occupancy
+-Prediction Engine: AI forecasts solar output and electricity demand
+-Optimization Algorithm: Determines the best time to run appliances, charge batteries, or store energy
+-Control System: Automatically adjusts device operation and battery storage to match solar availability
 
 AI Techniques Used
--Machine Learning for consumption prediction and pattern recognition.
--Reinforcement Learning to optimize real-time energy distribution.
--Forecasting Models using weather data to anticipate solar production.
--Sensor Integration to monitor occupancy and device usage.
+-Machine Learning for consumption prediction and pattern recognition
+-Reinforcement Learning to optimize real-time energy distribution
+-Forecasting Models using weather data to anticipate solar production
+-Sensor Integration to monitor occupancy and device usage
 
 
 # Challenges
-Data privacy and secure sensor integration.
-Initial cost of smart devices and battery storage.
-Need for user-friendly interfaces and override options.
+-Data privacy and secure sensor integration
+-Initial cost of smart devices and battery storage
+-Need for user-friendly interfaces and override options
 
 
 ## What next?
