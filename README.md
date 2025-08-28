@@ -1,9 +1,6 @@
-# my-new-project
-Building AI course project- 
-
 # Optimizing electricity self-consumption from solar panels
 
-Final project for the Building AI course
+Building AI course project
 
 ## Summary
 
