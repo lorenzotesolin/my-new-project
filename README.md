@@ -35,32 +35,6 @@ AI Techniques Used
 -Sensor Integration to monitor occupancy and device usage.
 
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
-
 ## Data sources and AI methods
 
 data from the building (sensors), form the solar panels, from the weather forecasts and from some sensors in the same area (e.g.to anticipate coming clouds)
@@ -76,16 +50,8 @@ AI Techniques Used
 -Forecasting Models using weather data to anticipate solar production.
 -Sensor Integration to monitor occupancy and device usage.
 
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-## Challenges
-
+# Challenges
 Data privacy and secure sensor integration.
 Initial cost of smart devices and battery storage.
 Need for user-friendly interfaces and override options.
