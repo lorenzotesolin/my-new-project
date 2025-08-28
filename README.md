@@ -9,8 +9,6 @@ Self-consumption of electricity produced by solar panel is quite a challenge. If
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
 Develop an AI-based system that predicts and adjusts electricity consumption patterns.
 
 -Minimize reinjection of surplus solar energy into the grid
