@@ -4,7 +4,7 @@ Building AI course project
 
 ## Summary
 
-Self-consumption of electricity produced by solar panel is quite a challenge. If not used, the electricity is re-injected in the grid occasionning variation in voltage, sometimes disconnection from the grid due to solar peak (meaning no electicity production) or even black out in the street. This sytem would adapt dynamically to building size and occupancy, electrical equipment usage also depending on the equipment power, and weather conditions and forecast. This system would also give advice or literally organize the planning when to start high-power equipments such as washing machine or electrical boiler to optimize electricity self-consumption. Of course storage batteries could be avoided or used but with a certain downsizing. In general, this could avoid the use of electrical raw material (batteries, grid equipment).
+Self-consumption of electricity produced by solar panel is quite a challenge. If not used, the electricity is re-injected in the grid occasionning variation in voltage, sometimes disconnection from the grid due to solar peak (meaning no electicity production) or even black out in the street. This sytem would adapt dynamically to building size and occupancy, electrical equipment usage also depending on the equipment power, and weather conditions and forecast. This system would also give advice or literally organize the planning when to start high-power equipments such as washing machine or electrical boiler to optimize electricity self-consumption. Storage batteries could be avoided or used but with a certain downsizing. In general, this could avoid the use of electrical raw material (batteries, grid equipment).
 
 
 ## Background
