@@ -26,11 +26,11 @@ small Houses: Tailored to individual appliances, occupancy, and daily routines.
 
 Large Buildings: Integrates with Building Management Systems (BMS) to coordinate across multiple zones and users.
 
-there is a need of connected equipment or people can plan the equipment themselves.
+There is a need of connected equipment or people can plan the equipment themselves.
 
 AI Techniques Used
 -Machine Learning for consumption prediction and pattern recognition
--Reinforcement Learning to optimize real-time energy distribution
+-Reinforcement Learning to optimize real-time energy distribution 
 -Forecasting Models using weather data to anticipate solar production
 -Sensor Integration to monitor occupancy and device usage
 
